@@ -22,7 +22,6 @@ streamlit_ui/
 ├─ db_inbox/
 │  └─ mail_inbox.json         # Sample email data in JSON
 ├─ boxmail.py                 # Main Streamlit app
-└─ __init__.py
 ```
 
 ## Installation
