@@ -29,8 +29,8 @@ streamlit_ui/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/mini-mailbox.git
-cd mini-mailbox
+git clone https://github.com/yannlhotel/streamlit_inbox.git
+cd streamlit_inbox
 ```
 
 2. Create a virtual environment and activate it:
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 pip install langchain-ollama streamlit
 ```
 
-4. Make sure Ollama is installed locally and the Deepseek model is available.
+4. Make sure Ollama is installed locally and the Deepseek model deepseek-r1:1.5b is available.
 
 ## Usage
 
